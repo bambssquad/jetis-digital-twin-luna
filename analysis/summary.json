@@ -1,0 +1,52 @@
+{
+  "entities": 73606,
+  "blocks": 1271,
+  "warnings": {
+    "Unsupported entity AcDbHatch": 592,
+    "Unsupported entity AcDbEllipse": 92,
+    "Unsupported entity AcDbPoint": 4118,
+    "INSUNITS unavailable; inspect drawing": 1
+  },
+  "types": {
+    "AcDbPolyline": 4198,
+    "AcDbLine": 53236,
+    "AcDbMText": 446,
+    "AcDbHatch": 592,
+    "AcDbRotatedDimension": 452,
+    "AcDbArc": 11672,
+    "AcDbCircle": 1816,
+    "AcDbEllipse": 92,
+    "AcDbBlockReference": 595,
+    "AcDbAlignedDimension": 178,
+    "AcDb2LineAngularDimension": 1,
+    "AcDbPoint": 328
+  },
+  "layers": {
+    "KOP TEKS": 1900,
+    "GR": 595,
+    "Garis Dim": 30363,
+    "0": 9028,
+    "WF 150": 328,
+    "HELP": 240,
+    "Atap": 120,
+    "SUNGAI": 518,
+    "TEXT": 468,
+    "As Atap": 30112,
+    "Layer2": 184,
+    "kusen": 225,
+    "GRS-TIPIS": 25,
+    "WHITE": 1,
+    "Pondasi": 4277,
+    "2.5": 1,
+    "PERABOT": 1,
+    "TANGGA": 30,
+    "RAILING": 3,
+    "HAT": 124,
+    "ARCH": 32,
+    "HATCH": 6,
+    "FUR": 216
+  },
+  "texts": 446,
+  "dimensions": 631,
+  "line_segments": 454236
+}

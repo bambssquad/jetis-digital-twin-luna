@@ -1,0 +1,44 @@
+{
+  "tested_url": "http://127.0.0.1:5187/",
+  "browser": "Chrome, ANGLE Intel UHD Graphics Direct3D11",
+  "ready": true,
+  "runtime_errors": [],
+  "elements": 1053,
+  "texture_loads": 9,
+  "draw_calls": 50,
+  "avatar_measured_height_m": 1.7,
+  "door_open_endpoints": "All six roll-up doors reached target=1/value=1 through UI animation",
+  "door_close": "All six roll-up doors reached target=0/value=0 through UI animation",
+  "controls": [
+    "orbit",
+    "first person",
+    "third person",
+    "roof visibility",
+    "interior visibility",
+    "dusk"
+  ],
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "scroll_width": 390,
+    "panel_collapse": true,
+    "joystick_pointer_input": true,
+    "position_before": [
+      18,
+      0,
+      58
+    ],
+    "position_after": [
+      18.011513157894772,
+      0,
+      58.72532894736842
+    ],
+    "errors": []
+  },
+  "performance_note": "Background/occluded Chrome was throttled near1FPS. Bringing tab to front produced157FPS at390x844; desktop2048x1055 observed25-34FPS. These are spot measurements, not hardware benchmarks.",
+  "viewport_override_reset": true,
+  "screenshot_download": "outputs/web-overview.png, refreshed after final doorway correction through app capture",
+  "scene_sha256": "dadcd970c25b286512ac0f31f0913d17b98d845b46697a196a28219b8a33eeb9"
+}

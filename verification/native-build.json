@@ -1,0 +1,26 @@
+{
+  "saved": true,
+  "path": "C:/Users/adigh/OneDrive/Documents/ChatGPT/jetis-digital-twin/outputs/model.skp",
+  "version": "23.1.340",
+  "pid": 41084,
+  "elements": 1053,
+  "definitions": 63,
+  "materials": 12,
+  "groups": [
+    "Tapak",
+    "Eksterior",
+    "Interior",
+    "Struktur",
+    "Atap"
+  ],
+  "scenes": 6,
+  "errors": [
+
+  ],
+  "texture_materials": [
+    "concrete",
+    "asphalt",
+    "galvalume",
+    "door"
+  ]
+}

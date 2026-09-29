@@ -1,0 +1,340 @@
+{
+  "project": "Pengolahan Hasil Laut Jetis â€” Luna",
+  "units": "metres",
+  "source_origin": [
+    2300,
+    1600,
+    0
+  ],
+  "source_unit_to_m": 1.0,
+  "unit_evidence": [
+    "Explicit site annotations /16595 and /16597 specify 30x78 and 30x84; matching outline lengths are 78 and 84 drawing units.",
+    "Explicit site annotations /16599 and /165AD specify 30x36; each matching footprint is 36 by 30 drawing units.",
+    "Repeated foundation grid points in site plan are spaced 6.000 drawing units; section text identifies 6 m pile length and 6 m structural grid spacing."
+  ],
+  "orientation": {
+    "north": "drawing +X",
+    "north_arrow_handle": "165A6",
+    "north_text_handle": "165A4",
+    "building_long_axis": "drawing +X",
+    "cross_span": "drawing Y"
+  },
+  "bounds": {
+    "min": [
+      -95,
+      -92,
+      -0.22
+    ],
+    "max": [
+      70,
+      76,
+      14.5
+    ]
+  },
+  "footprints_source": [
+    {
+      "handle": "16599",
+      "text_handle": "16599",
+      "stage": "Tahap 1",
+      "size_m": [
+        36,
+        30
+      ],
+      "bounds": [
+        2237.38,
+        1586.55,
+        2273.38,
+        1616.55
+      ]
+    },
+    {
+      "handle": "165AD",
+      "text_handle": "165AD",
+      "stage": "Tahap 1",
+      "size_m": [
+        36,
+        30
+      ],
+      "bounds": [
+        2237.38,
+        1556.55,
+        2273.38,
+        1586.55
+      ]
+    },
+    {
+      "handle": "16597",
+      "text_handle": "16597",
+      "stage": "Tahap 1",
+      "size_m": [
+        84,
+        30
+      ],
+      "bounds": [
+        2273.38,
+        1556.55,
+        2357.38,
+        1586.55
+      ]
+    },
+    {
+      "handle": "16595",
+      "text_handle": "16595",
+      "stage": "Tahap 1",
+      "size_m": [
+        78,
+        30
+      ],
+      "bounds": [
+        2273.38,
+        1586.55,
+        2351.38,
+        1616.55
+      ]
+    },
+    {
+      "handles": [
+        "16591",
+        "16593"
+      ],
+      "stage": "Tahap 2",
+      "size_m": [
+        42,
+        30
+      ],
+      "bounds": [
+        2261.38,
+        1636.55,
+        2303.38,
+        1666.55
+      ],
+      "paired_module": true,
+      "inference": "same 42m halves from split outline x=2303 and two phase labels"
+    },
+    {
+      "handles": [
+        "16591",
+        "16593"
+      ],
+      "stage": "Tahap 2",
+      "size_m": [
+        42,
+        30
+      ],
+      "bounds": [
+        2303.38,
+        1636.55,
+        2345.38,
+        1666.55
+      ],
+      "paired_module": true,
+      "inference": "same 42m halves from split outline x=2303 and two phase labels"
+    }
+  ],
+  "levels_source": {
+    "site_grade": {
+      "value_m": 0.0,
+      "text_handle": "14639",
+      "text": "Â± 0.00"
+    },
+    "finished_floor_1": {
+      "value_m": 1.0,
+      "text_handle": "14635",
+      "text": "+ 1.00",
+      "cross_reference_text_handle": "145CB",
+      "cross_reference_text": "LANTAI 1"
+    },
+    "eave": {
+      "value_m": 9.0,
+      "text_handle": "1464D"
+    },
+    "ridge": {
+      "value_m": 13.5,
+      "text_handle": "14651"
+    },
+    "foundation_levels_m": [
+      -2.0,
+      -2.5,
+      -8.5
+    ],
+    "model_relation": "z_model_m=z_source_elevation_m; vertical offset=0.00 m"
+  },
+  "structure_source": [
+    "WF350 columns",
+    "WF300 roof trusses",
+    "CNP125 purlins"
+  ],
+  "spawn": [
+    18,
+    -58,
+    0.05
+  ],
+  "walk_bounds": [
+    -94,
+    69,
+    -76,
+    76
+  ],
+  "ground_height": 0,
+  "roof_groups": [
+    "Atap"
+  ],
+  "interior_groups": [
+    "Interior"
+  ],
+  "source_transform": {
+    "x_m": "x_dwg-2300",
+    "y_m": "y_dwg-1600",
+    "z_m": "z_dwg",
+    "source_unit_to_m": 1.0,
+    "elevation_offset_m": 0.0
+  },
+  "source_annotations": [
+    {
+      "handle": "165A2",
+      "text": "LAYOUT PLAN ALT.2",
+      "position_source": [
+        2373.704,
+        1519.655
+      ]
+    },
+    {
+      "handle": "16591",
+      "text": "TAHAP 2",
+      "position_source": [
+        2273.451,
+        1652.945
+      ]
+    },
+    {
+      "handle": "16593",
+      "text": "TAHAP 2",
+      "position_source": [
+        2315.451,
+        1652.945
+      ]
+    },
+    {
+      "handle": "16595",
+      "text": "TAHAP 1 / 30x78",
+      "position_source": [
+        2306.687,
+        1603.089
+      ]
+    },
+    {
+      "handle": "16597",
+      "text": "TAHAP 1 / 30x84",
+      "position_source": [
+        2310.842,
+        1573.089
+      ]
+    },
+    {
+      "handle": "16599",
+      "text": "TAHAP 1 / 30x36",
+      "position_source": [
+        2247.842,
+        1603.089
+      ]
+    },
+    {
+      "handle": "165AD",
+      "text": "TAHAP 1 / 30x36",
+      "position_source": [
+        2247.842,
+        1576.596
+      ]
+    },
+    {
+      "handle": "165A4",
+      "text": "U (Utara)",
+      "position_source": [
+        2407.574,
+        1666.262
+      ]
+    },
+    {
+      "handle": "165A6",
+      "text": "North arrow triangle points +X",
+      "position_source": [
+        2408.738,
+        1664.925
+      ]
+    },
+    {
+      "handle": "14635",
+      "text": "+ 1.00",
+      "position_source": [
+        3220.677,
+        1615.316
+      ]
+    },
+    {
+      "handle": "14639",
+      "text": "Â± 0.00",
+      "position_source": [
+        3220.677,
+        1614.316
+      ]
+    },
+    {
+      "handle": "1464D",
+      "text": "+ 9.00",
+      "position_source": [
+        3220.491,
+        1623.316
+      ]
+    },
+    {
+      "handle": "14651",
+      "text": "+ 13.50",
+      "position_source": [
+        3220.491,
+        1627.816
+      ]
+    },
+    {
+      "handle": "145CB",
+      "text": "LANTAI 1",
+      "position_source": [
+        3141.701,
+        1614.779
+      ]
+    },
+    {
+      "handle": "145AE",
+      "text": "KOLOM WF 350",
+      "position_source": [
+        3099.096,
+        1616.511
+      ]
+    },
+    {
+      "handle": "145BA",
+      "text": "KUDA-KUDA WF 300",
+      "position_source": [
+        3099.107,
+        1623.664
+      ]
+    },
+    {
+      "handle": "17081",
+      "text": "GORDING CNP 125, 2mm",
+      "position_source": [
+        2869.925,
+        1659.376
+      ]
+    }
+  ],
+  "north_vector": [
+    1,
+    0,
+    0
+  ],
+  "notes": [
+    "Tahap 2 is two 30x42 modules inferred from two Tahap 2 labels /16591 and /16593 and the 84-unit plan split at x=2303.",
+    "North symbol /165A6 points +X; the adjacent U mark is /165A4.",
+    "Original drawing contains many layout annotations; annotations are retained in scene.source_annotations as source data."
+  ]
+}

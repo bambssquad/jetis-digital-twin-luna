@@ -1,0 +1,243 @@
+{
+  "passed": true,
+  "floors": [
+    {
+      "name": "Pelat lantai t1-36-row-a",
+      "id": "jetis-00043",
+      "xyz_span_m": [
+        36.0,
+        30.0,
+        0.18
+      ],
+      "z_m": [
+        0.82,
+        1.0
+      ]
+    },
+    {
+      "name": "Pelat lantai t1-36-row-b",
+      "id": "jetis-00167",
+      "xyz_span_m": [
+        36.0,
+        30.0,
+        0.18
+      ],
+      "z_m": [
+        0.82,
+        1.0
+      ]
+    },
+    {
+      "name": "Pelat lantai t1-84-row-b",
+      "id": "jetis-00291",
+      "xyz_span_m": [
+        84.0,
+        30.0,
+        0.18
+      ],
+      "z_m": [
+        0.82,
+        1.0
+      ]
+    },
+    {
+      "name": "Pelat lantai t1-78-row-a",
+      "id": "jetis-00535",
+      "xyz_span_m": [
+        78.0,
+        30.0,
+        0.18
+      ],
+      "z_m": [
+        0.82,
+        1.0
+      ]
+    },
+    {
+      "name": "Pelat lantai t2-42-module-a",
+      "id": "jetis-00761",
+      "xyz_span_m": [
+        42.0,
+        30.0,
+        0.18
+      ],
+      "z_m": [
+        0.82,
+        1.0
+      ]
+    },
+    {
+      "name": "Pelat lantai t2-42-module-b",
+      "id": "jetis-00897",
+      "xyz_span_m": [
+        42.0,
+        30.0,
+        0.18
+      ],
+      "z_m": [
+        0.82,
+        1.0
+      ]
+    }
+  ],
+  "columns_checked": 118,
+  "doors_checked": 6,
+  "roof_samples": [
+    {
+      "name": "Atap galvalume t1-36-row-a selatan",
+      "id": "jetis-00119",
+      "xyz_span_m": [
+        37.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t1-36-row-a utara",
+      "id": "jetis-00120",
+      "xyz_span_m": [
+        37.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t1-36-row-b selatan",
+      "id": "jetis-00243",
+      "xyz_span_m": [
+        37.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t1-36-row-b utara",
+      "id": "jetis-00244",
+      "xyz_span_m": [
+        37.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t1-84-row-b selatan",
+      "id": "jetis-00439",
+      "xyz_span_m": [
+        85.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t1-84-row-b utara",
+      "id": "jetis-00440",
+      "xyz_span_m": [
+        85.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t1-78-row-a selatan",
+      "id": "jetis-00674",
+      "xyz_span_m": [
+        79.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t1-78-row-a utara",
+      "id": "jetis-00675",
+      "xyz_span_m": [
+        79.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t2-42-module-a selatan",
+      "id": "jetis-00846",
+      "xyz_span_m": [
+        43.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t2-42-module-a utara",
+      "id": "jetis-00847",
+      "xyz_span_m": [
+        43.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t2-42-module-b selatan",
+      "id": "jetis-00982",
+      "xyz_span_m": [
+        43.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    },
+    {
+      "name": "Atap galvalume t2-42-module-b utara",
+      "id": "jetis-00983",
+      "xyz_span_m": [
+        43.6,
+        15.3627,
+        4.5432
+      ],
+      "z_m": [
+        8.9568,
+        13.5
+      ]
+    }
+  ]
+}

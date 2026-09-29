@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "native_reopen_passed": true,
+    "native_scene_count": true,
+    "native_download_identical": true,
+    "source_unchanged": true
+  },
+  "scene_sha256": "dadcd970c25b286512ac0f31f0913d17b98d845b46697a196a28219b8a33eeb9",
+  "native_sha256": "9dc86b8e9c9c0e08f9aecc99def476710f7fdad06150d2154d5454462f153278",
+  "passed": true
+}

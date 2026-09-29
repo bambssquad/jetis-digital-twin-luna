@@ -1,0 +1,156 @@
+{
+  "name": "Pengolahan Hasil Laut Jetis - Luna",
+  "slug": "jetis-digital-twin-luna",
+  "source_filename": "SEND.Pengolahan Hasil Laut - Jetis.dwg",
+  "source_sha256": "ae5a91924b7a508a76e258c8141cf21c816b6378734217fa413e759cd0848072",
+  "publication": "new-public-github-repository-and-pages",
+  "status": "configured",
+  "download": "downloads/model.skp",
+  "units": "metres",
+  "source_origin": [
+    2300,
+    1600,
+    0
+  ],
+  "source_unit_to_m": 1.0,
+  "unit_evidence": [
+    "Explicit site annotations /16595 and /16597 specify 30x78 and 30x84; matching outline lengths are 78 and 84 drawing units.",
+    "Explicit site annotations /16599 and /165AD specify 30x36; each matching footprint is 36 by 30 drawing units.",
+    "Repeated foundation grid points in site plan are spaced 6.000 drawing units; section text identifies 6 m pile length and 6 m structural grid spacing."
+  ],
+  "bounds": {
+    "min": [
+      -95,
+      -92,
+      -0.22
+    ],
+    "max": [
+      70,
+      76,
+      14.5
+    ]
+  },
+  "center": [
+    -12.5,
+    -8.0,
+    7.14
+  ],
+  "span": 168,
+  "spawn": [
+    18,
+    -58,
+    0.05
+  ],
+  "walk_bounds": [
+    -94,
+    69,
+    -76,
+    76
+  ],
+  "ground_height": 0,
+  "roof_groups": [
+    "Atap"
+  ],
+  "interior_groups": [
+    "Interior"
+  ],
+  "views": {
+    "overview": {
+      "eye": [
+        78,
+        -159,
+        125
+      ],
+      "target": [
+        -12.5,
+        -8,
+        7.0
+      ],
+      "title": "Ikhtisar tapak",
+      "detail": "Enam modul Tahap 1 dan Tahap 2 di dalam batas lahan."
+    },
+    "arrival": {
+      "eye": [
+        -20,
+        -105,
+        26
+      ],
+      "target": [
+        0,
+        -22,
+        5
+      ],
+      "title": "Akses utama",
+      "detail": "Pos jaga, pagar, gerbang dan halaman kendaraan."
+    },
+    "stage1": {
+      "eye": [
+        112,
+        -99,
+        66
+      ],
+      "target": [
+        5,
+        -19,
+        7
+      ],
+      "title": "Gudang Tahap 1",
+      "detail": "Empat modul gudang dengan rangka baja bentang lebar."
+    },
+    "stage2": {
+      "eye": [
+        69,
+        9,
+        58
+      ],
+      "target": [
+        0,
+        48,
+        7
+      ],
+      "title": "Gudang Tahap 2",
+      "detail": "Dua modul berdampingan pada sisi utara tapak."
+    },
+    "top": {
+      "eye": [
+        -12.5,
+        -8,
+        255
+      ],
+      "target": [
+        -12.5,
+        -8,
+        0
+      ],
+      "title": "Denah tapak",
+      "detail": "Susunan modul, akses dan orientasi utara."
+    },
+    "interior": {
+      "eye": [
+        12,
+        -8,
+        5.4
+      ],
+      "target": [
+        12,
+        -3,
+        5.2
+      ],
+      "title": "Interior gudang",
+      "detail": "Ruang gudang lapang; mesin tidak tergambar pada DWG.",
+      "interior": true
+    }
+  },
+  "north_vector_source": [
+    1,
+    0,
+    0
+  ],
+  "source_transform": {
+    "x_m": "x_dwg-2300",
+    "y_m": "y_dwg-1600",
+    "z_m": "z_dwg",
+    "source_unit_to_m": 1.0,
+    "elevation_offset_m": 0.0
+  }
+}

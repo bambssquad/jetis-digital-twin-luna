@@ -1,0 +1,18 @@
+{
+  "path": "C:\\Users\\adigh\\OneDrive\\Documents\\ChatGPT\\jetis-digital-twin\\outputs\\model.skp",
+  "sha256": "9dc86b8e9c9c0e08f9aecc99def476710f7fdad06150d2154d5454462f153278",
+  "expected": 1053,
+  "actual": 1053,
+  "ids_match": true,
+  "nonmanifold": [
+
+  ],
+  "scenes": 6,
+  "texture_materials": 4,
+  "bounds_m": [
+    161.13946957595138,
+    165.40989873117184,
+    14.35
+  ],
+  "passed": true
+}

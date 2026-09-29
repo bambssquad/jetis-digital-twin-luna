@@ -1,0 +1,10 @@
+# Jetis digital twin — Luna status
+
+- Source: `source/input.dwg`, copied unchanged; SHA-256 `ae5a91924b7a508a76e258c8141cf21c816b6378734217fa413e759cd0848072`. Extraction: 73,606 entities, 1,271 block definitions, 631 dimensions and 446 text annotations. Unsupported records include hatches, ellipses and points; DWG INSUNITS is unavailable.
+- Frozen source facts: four Stage 1 footprints (30×36 m twice, 30×78 m, 30×84 m); two inferred Stage 2 30×42 m modules; 6 m grid; north = drawing +X; grade 0, floor +1, eave +9, ridge +13.5 m. Origin [2300,1600,0], zero Z offset. Evidence and handles: `analysis/spec.json`.
+- Inferred visual detail: 4.8 m roller shutters in clear 6 m bays, Stage 1 row A north / row B south; wall and finish layers, glazing, site furnishings, and open interiors. DWG does not show door schedule, mechanism, or processing equipment. This model is not engineering or fabrication approval.
+- Scene: 1,053 elements, 6 footprints, 6 animated door controls, 21 high-bay lights; all source annotations and dimensions retained.
+- Native SketchUp 2023 model saved and reopened: 1,053/1,053 IDs match, zero nonmanifold geometry, six scenes, four textured materials. Dimensional evidence: `verification/native-dimensions.json`. Final SHA-256: `9dc86b8e9c9c0e08f9aecc99def476710f7fdad06150d2154d5454462f153278`; `outputs/model.skp` matches `web/dist/downloads/model.skp`.
+- Checks passed: `project.py validate`, `verify_source_scene.py`, `verify_navigation.mjs` (6/6 routes; closed blocks, open crosses, stairs both ways), `verify_release.py` (4/4 local checks), and parent live-browser checks (`verification/browser-local.json`). Parent owns Pages publication and live URL verification.
+- JEV classification ran once in shadow mode and returned “other” 0.97; advisory only. Formal bam-jev-loop was NO-GO because the initial geometry verifier did not cover physical navigation; we used a deterministic frozen source verifier plus collision and native audits. No loop pass is claimed.
+- Separate Astra version belongs to the sibling project. Luna native writer lock is released after final audit.

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "elements": 1053,
+  "footprints": 6,
+  "motions": 6,
+  "source_texts": 446,
+  "source_dimensions": 631,
+  "north": "drawing +X",
+  "grade_m": 0.0,
+  "finished_floor_m": 1.0,
+  "eave_m": 9.0,
+  "ridge_m": 13.5
+}

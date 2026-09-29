@@ -1,0 +1,9 @@
+{
+  "name": "Pengolahan Hasil Laut Jetis - Luna",
+  "slug": "jetis-digital-twin-luna",
+  "source_filename": "SEND.Pengolahan Hasil Laut - Jetis.dwg",
+  "source_sha256": "ae5a91924b7a508a76e258c8141cf21c816b6378734217fa413e759cd0848072",
+  "publication": "new-public-github-repository-and-pages",
+  "status": "configured",
+  "source_unit_to_m": 1.0
+}

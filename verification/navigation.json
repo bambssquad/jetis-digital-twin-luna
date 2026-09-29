@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "id": "pintu-t1-36-row-a",
+      "closedBlocks": true,
+      "openCrosses": true,
+      "stairsBothWays": true
+    },
+    {
+      "id": "pintu-t1-36-row-b",
+      "closedBlocks": true,
+      "openCrosses": true,
+      "stairsBothWays": true
+    },
+    {
+      "id": "pintu-t1-84-row-b",
+      "closedBlocks": true,
+      "openCrosses": true,
+      "stairsBothWays": true
+    },
+    {
+      "id": "pintu-t1-78-row-a",
+      "closedBlocks": true,
+      "openCrosses": true,
+      "stairsBothWays": true
+    },
+    {
+      "id": "pintu-t2-42-module-a",
+      "closedBlocks": true,
+      "openCrosses": true,
+      "stairsBothWays": true
+    },
+    {
+      "id": "pintu-t2-42-module-b",
+      "closedBlocks": true,
+      "openCrosses": true,
+      "stairsBothWays": true
+    }
+  ]
+}
