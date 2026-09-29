@@ -10,7 +10,7 @@ if sys.argv[1]=='index':
             if not p.is_file() or '__pycache__' in p.parts or p.suffix in ['.log','.pyc','.skb']:continue
             if folder=='analysis' and p.name not in ['spec.json','summary.json','overview.png','drawing-evidence.json']:continue
             if folder=='outputs' and p.suffix.lower() not in ['.png','.md']:continue
-            if folder=='verification' and p.name not in ['browser-local.json','contract.json','source-scene-checks.json','native-build.json','native-reopened.json','native-dimensions.json','navigation.json','release-local.json','loop-status.json','loop-status.md']:continue
+            if folder=='verification' and p.name not in ['browser-local.json','browser-live.json','door-render.json','contract.json','source-scene-checks.json','native-build.json','native-reopened.json','native-dimensions.json','navigation.json','release-local.json','release-live.json','loop-status.json','loop-status.md']:continue
             files.append(p)
     files += [ROOT/p for p in ['README.md','STATE.md','project-manifest.json','.gitignore'] if (ROOT/p).is_file()]
     rows=[]

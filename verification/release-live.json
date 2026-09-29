@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "native_reopen_passed": true,
+    "native_scene_count": true,
+    "native_download_identical": true,
+    "source_unchanged": true,
+    "live_index.html": true,
+    "live_project.json": true,
+    "live_assets/scene.json": true,
+    "live_app.js": true,
+    "live_experience.js": true,
+    "live_navigation.js": true,
+    "live_downloads/model.skp": true
+  },
+  "scene_sha256": "dadcd970c25b286512ac0f31f0913d17b98d845b46697a196a28219b8a33eeb9",
+  "native_sha256": "9dc86b8e9c9c0e08f9aecc99def476710f7fdad06150d2154d5454462f153278",
+  "url": "https://bambssquad.github.io/jetis-digital-twin-luna/",
+  "passed": true
+}

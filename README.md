@@ -2,6 +2,12 @@
 
 Editable SketchUp and Three.js versions of the Jetis warehouse and site plan. Both use metres and share the source-derived footprint layout. The copied source is `source/input.dwg`; its SHA-256 is `ae5a91924b7a508a76e258c8141cf21c816b6378734217fa413e759cd0848072`.
 
+[Open the interactive model](https://bambssquad.github.io/jetis-digital-twin-luna/) · [Download SketchUp 2023](https://bambssquad.github.io/jetis-digital-twin-luna/downloads/model.skp)
+
+Implementation was completed by an actual `gpt-6-luna` High worker. Shared intake, independent source/browser review, release verification and publication were coordinated by Astra High. The separately implemented Astra version has its own repository.
+
+![Jetis site overview](outputs/web-overview.png)
+
 ## Source facts and assumptions
 
 - The drawing labels four Stage 1 sheds: 30 × 36 m twice, 30 × 78 m and 30 × 84 m. Six-metre structural bays are dimensioned. Two Stage 2 labels divide an 84 m outline into two inferred 30 × 42 m modules.
